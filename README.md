@@ -1,7 +1,27 @@
 # AceBook
 
+here is up-to-date documentation:
+
+    a project description.
+    how to install and run it.
+    how to run tests.
+    
+## What have we done?
+
+
+## Who are we?
+- [Karsten](https://github.com/KarstenFinlay) 
+- [Hugh](https://github.com/hacaravan)
+- [Ollie](https://github.com/bateso88)
+- [Louis](https://github.com/louiswicks)
+- [Salar](https://github.com/SalarGhotaslo)
+
 ## Our App
+- We have built a clone of Facebook as part of the Makers Academy Course
+- It's built in Rails with some Javascript on the frontend
+- It's hosted in Heroku - 
 [Acebook ShoLk](https://fierce-plains-18412.herokuapp.com)
+- It's got a fun space theme
 
 REQUIRED INSTRUCTIONS:
 
